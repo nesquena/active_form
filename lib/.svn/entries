@@ -1,0 +1,41 @@
+8
+
+dir
+788
+svn+ssh://nate@74.205.71.69/home/svnowner/repository/openPresenceRubyOnRails/trunk/vendor/plugins/active_form/lib
+svn+ssh://nate@74.205.71.69/home/svnowner/repository
+
+
+
+2008-04-01T03:47:34.628897Z
+739
+nate
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+75e973b7-daca-42f5-98ca-6c0bed327aa9
+
+active_form.rb
+file
+
+
+
+
+2007-06-13T09:28:23.000000Z
+04c4f65076660306df84852e160367f4
+2008-04-01T03:47:34.628897Z
+739
+nate
+has-props
+
